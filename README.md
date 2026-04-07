@@ -5,8 +5,9 @@ email: login with your gmail id or facebook
 password: 
 
 github link = https://github.com/mkumar-01/online-publishing.git
+github link = https://github.com/manoj30dec/angular-online-publishing.git
 
-you need to run json server apartfrom npm start in angular project which is as follows (in the same terminal )
+Important Note: => You need to run json server apartfrom npm start in angular project which is as follows (in the same terminal )
 npx json-server data/db.json
 
 auth0 setting links
