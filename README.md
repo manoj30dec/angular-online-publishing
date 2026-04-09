@@ -4,8 +4,12 @@ Use following credentials for login
 email: login with your gmail id or facebook
 password: 
 
-Note => you need to run json server apartfrom npm start in angular project which is as follows (in the same terminal )
+Important Note: => You need to run json server apartfrom npm start in angular project which is as follows (in the same terminal )
 npx json-server data/db.json
+
+github link = https://github.com/manoj30dec/angular-online-publishing.git
+
+
 
 github repository link = https://github.com/manoj30dec/angular-online-publishing.git
 
