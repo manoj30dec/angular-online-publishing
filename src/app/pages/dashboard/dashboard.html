@@ -9,6 +9,9 @@
 }  -->
 @if(maxPoplar?.reactions?.likes!=0){
 <div class="max-popular">
+  <h5 class="blinking">
+    To show data run in different terminal =>npx json-server data/db.json
+  </h5>
   <h1>Most Popular on This Page</h1>
   <img
     *ngIf="maxPoplar?.image"
